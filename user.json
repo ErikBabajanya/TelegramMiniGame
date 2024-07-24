@@ -1,0 +1,25 @@
+{
+  "id": 168472591,
+  "uuid": "uewbviu41864wqvqw168498v",
+  "name": "Erik",
+  "gold_count": 1680,
+  "mined_count": 720,
+  "ton_count": 16,
+  "storage_limit": 700,
+  "storage_level": 2,
+  "miners": [
+    {
+      "id": 1782591,
+      "level": 2,
+      "power": 201,
+      "star": 1
+    },
+    {
+      "id": 187695,
+      "level": 2,
+      "power": 201,
+      "star": 1
+    }
+  ],
+  "power": 2
+}
