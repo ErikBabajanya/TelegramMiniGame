@@ -1,6 +1,5 @@
 import user from "../user.json";
 import Image from "next/image";
-import backgroundImage from "../public/image0_0.jpg"; // Import the background image
 
 export default function Home() {
   return (
